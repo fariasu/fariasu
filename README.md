@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pablo Farias.
 - 👀 I’m interested in C#.
-- 🌱 I’m currently learning C#, .NET Tests.
+- 🌱 I’m currently learning C#.
 - 📫 How to reach me:
                       [Linkedin](https://www.linkedin.com/in/pablo-farias/)
 
