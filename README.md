@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Pablo Farias.
-- 👀 I’m interested in C#.
-- 🌱 I’m currently learning C#.
+- 🌱 I’m currently learning React, NodeJS, MongoDB.
 - 📫 How to reach me:
                       [Linkedin](https://www.linkedin.com/in/pablo-farias/)
 
