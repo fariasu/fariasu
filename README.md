@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pablo Farias.
-- 🌱 I’m currently learning React, NodeJS, MongoDB.
+- 🌱 I’m currently learning C++.
 - 📫 How to reach me:
                       [Linkedin](https://www.linkedin.com/in/pablo-farias/)
 
