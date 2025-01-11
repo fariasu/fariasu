@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pablo Farias.
-- 🌱 I’m currently learning C++.
+- 🌱 I’m currently learning C# and .NET.
 - 📫 How to reach me:
                       [Linkedin](https://www.linkedin.com/in/pablo-farias/)
 
